@@ -1,3 +1,7 @@
+---
+title: "Some Title v2"
+date: 2018-06-28
+---title: Progress of an amateur
 # Welcome to my blog
 
 My plans for this blog are to share my experiences and see the progress I have made over time. 
